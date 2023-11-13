@@ -1,0 +1,16 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/Users/Jocy/Documents/Unreal Projects/Juego2D/Content/Niveles/Menu.umap",
+				"D:/Users/Jocy/Documents/Unreal Projects/Juego2D/Content/Niveles/Nivel1.umap",
+				"D:/Users/Jocy/Documents/Unreal Projects/Juego2D/Content/Niveles/Nivel2.umap",
+				"D:/Users/Jocy/Documents/Unreal Projects/Juego2D/Content/Niveles/Nivel3.umap",
+				"D:/Users/Jocy/Documents/Unreal Projects/Juego2D/Content/Niveles/Nivel4.umap"
+			]
+		}
+	]
+}
