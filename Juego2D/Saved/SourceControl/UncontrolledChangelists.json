@@ -5,6 +5,13 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/PC/OneDrive/Documentos/GitHub/JuegoSide3erParcial/Juego2D/Content/Inputs/Jump.uasset",
+				"C:/Users/PC/OneDrive/Documentos/GitHub/JuegoSide3erParcial/Juego2D/Content/Inputs/Movement.uasset",
+				"C:/Users/PC/OneDrive/Documentos/GitHub/JuegoSide3erParcial/Juego2D/Content/Inputs/IMC_Default.uasset",
+				"C:/Users/PC/OneDrive/Documentos/GitHub/JuegoSide3erParcial/Juego2D/Content/Blueprints/BP_Player.uasset",
+				"C:/Users/PC/OneDrive/Documentos/GitHub/JuegoSide3erParcial/Juego2D/Content/Blueprints/BP_Gamemode2D.uasset",
+				"C:/Users/PC/OneDrive/Documentos/GitHub/JuegoSide3erParcial/Juego2D/Content/Assets/ABP_Manny.uasset",
+				"C:/Users/PC/OneDrive/Documentos/GitHub/JuegoSide3erParcial/Juego2D/Content/Niveles/Nivel2.umap",
 				"D:/Users/Jocy/Documents/Unreal Projects/Juego2D/Content/Niveles/Menu.umap",
 				"D:/Users/Jocy/Documents/Unreal Projects/Juego2D/Content/Niveles/Nivel1.umap",
 				"D:/Users/Jocy/Documents/Unreal Projects/Juego2D/Content/Niveles/Nivel2.umap",
