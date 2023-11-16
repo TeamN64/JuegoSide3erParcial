@@ -6,6 +6,8 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"D:/Ricardo/Documents/GitHub/JuegoSide3erParcial/Juego2D/Content/Niveles/Nivel2.umap",
+				"D:/Ricardo/Documents/GitHub/JuegoSide3erParcial/Juego2D/Content/Enemy/BP_Enemy.uasset",
+				"D:/Ricardo/Documents/GitHub/JuegoSide3erParcial/Juego2D/Content/Blueprints/BP_Player.uasset",
 				"D:/Users/Jocy/Documents/GitHub/JuegoSide3erParcial/Juego2D/Content/Niveles/Menu.umap",
 				"D:/Users/Jocy/Documents/GitHub/JuegoSide3erParcial/Juego2D/Content/Widgets/W_Menu.uasset",
 				"D:/Users/Jocy/Documents/GitHub/JuegoSide3erParcial/Juego2D/Content/Widgets/W_HUD.uasset",
