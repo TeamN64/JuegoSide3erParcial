@@ -4919,4 +4919,18 @@ BUILD FAILED
 [2023.11.29-18.54.25:944][716]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
 [2023.11.29-18.54.25:944][716]LogModuleManager: Shutting down and abandoning module RenderCore (28)
 [2023.11.29-18.54.25:944][716]LogModuleManager: Shutting down and abandoning module Landscape (26)
-[2023.11.29-18.54.25:944][716]LogM
+[2023.11.29-18.54.25:944][716]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2023.11.29-18.54.25:947][716]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (22)
+[2023.11.29-18.54.25:948][716]LogModuleManager: Shutting down and abandoning module Renderer (20)
+[2023.11.29-18.54.25:948][716]LogModuleManager: Shutting down and abandoning module Engine (18)
+[2023.11.29-18.54.25:948][716]LogModuleManager: Shutting down and abandoning module CoreUObject (16)
+[2023.11.29-18.54.25:948][716]LogModuleManager: Shutting down and abandoning module SandboxFile (14)
+[2023.11.29-18.54.25:949][716]LogModuleManager: Shutting down and abandoning module PakFile (12)
+[2023.11.29-18.54.25:949][716]LogModuleManager: Shutting down and abandoning module RSA (11)
+[2023.11.29-18.54.25:949][716]LogModuleManager: Shutting down and abandoning module NetworkFile (8)
+[2023.11.29-18.54.25:949][716]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2023.11.29-18.54.25:949][716]LogModuleManager: Shutting down and abandoning module CookOnTheFly (4)
+[2023.11.29-18.54.25:949][716]LogModuleManager: Shutting down and abandoning module StorageServerClient (2)
+[2023.11.29-18.54.27:107][716]LogD3D12RHI: ~FD3D12DynamicRHI
+[2023.11.29-18.54.27:147][716]LogExit: Exiting.
+[2023.11.29-18.54.27:181][716]Log file closed, 11/29/23 12:54:27
