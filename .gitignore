@@ -72,3 +72,5 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+Juego2D/Content/TODOARTE/ModelosNivel/cliff.012.fbx
+Juego2D/Content/TODOARTE/ModelosNivel/cliff_012.uasset
